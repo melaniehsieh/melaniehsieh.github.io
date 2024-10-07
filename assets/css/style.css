@@ -53,7 +53,7 @@ h1 {
     margin-bottom: 0; /* Remove default top margin */
 }
 
-p, li {
-    font-size: 1.2em; /* Standard font size for paragraphs and list items */
+p, li, ul {
+    font-size: 1em; /* Standard font size for paragraphs and list items */
     margin-bottom: 0.5em;
 }

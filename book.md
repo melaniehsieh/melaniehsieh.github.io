@@ -3,6 +3,7 @@ layout: default
 title: Essay
 permalink: /book/
 ---
+# Books
 
 **Political Philosophy**
 - Machiavelli
