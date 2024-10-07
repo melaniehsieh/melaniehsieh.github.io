@@ -1,0 +1,59 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.4; /* Comfortable line height */
+    background-color: #f6f2e6; /* Maintained the background color */
+    color: #000; /* Dark text color for readability */
+}
+
+/* header {
+    background-color: #f6f2e6; 
+    padding: 20px; 
+    text-align: left; 
+} */
+
+a {
+    /* color: #000; */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+    color: #EE4B2B; /* Darker color on hover for effect */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* nav {
+    display: inline-block; 
+    text-align: left; 
+    margin-top: 15px;
+}
+
+nav ul {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+nav ul li {
+    text-decoration: none;
+    display: inline; 
+    margin: 0 15px; 
+    font-size: 1.5em;
+} */
+
+main {
+    max-width: 700px; /* Maximum width for main content */
+    margin: 40px auto;
+    padding: 40px; /* Padding around main content */
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 0; /* Remove default top margin */
+    margin-bottom: 0; /* Remove default top margin */
+}
+
+p, li {
+    font-size: 1.2em; /* Standard font size for paragraphs and list items */
+    margin-bottom: 0.5em;
+}
