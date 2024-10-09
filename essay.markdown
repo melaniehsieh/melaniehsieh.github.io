@@ -4,6 +4,7 @@ title: Essay
 permalink: /essay/
 ---
 
+# Essay
 
 "If my mind could gain a firm footing, I would not make essays, I would make decisions; but it is always in apprenticeship and on trial." *Michel de Montaigne*
 

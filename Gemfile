@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll", "~> 4.2"  # Ensure this is < 4.3.0
+gem "jekyll", "~> 3.10.0"  # Ensure this is < 4.3.0
 gem "minima", "~> 2.1"
 gem "liquid", "~> 4.0"   # This may need to be adjusted based on your needs
 gem "kramdown", "~> 2.3"  # Should be compatible with your setup
