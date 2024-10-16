@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Melanie Hsieh
-Studying Physics, [Political Philosophy](https://liberalarts.utexas.edu/coretexts/), and [WWII](https://liberalarts.utexas.edu/history/normandy-scholar-program-on-wwii/) at UT Austin. [Don Lavoie Fellow](https://www.mercatus.org/students/don-lavoie-fellowship) at the Mercatus Center, George Mason University.
+Studying Physics, [Political Philosophy](https://liberalarts.utexas.edu/coretexts/), and [WWII](https://liberalarts.utexas.edu/history/normandy-scholar-program-on-wwii/) at UT Austin (*Graduating in May 2025*). [Don Lavoie Fellow](https://www.mercatus.org/students/don-lavoie-fellowship) at the Mercatus Center, George Mason University.
 
 Current intellectual curiousity (*last update Oct 2024*):
 - [Oral history of China experts in America](https://pekinghotel.substack.com/)
