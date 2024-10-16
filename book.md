@@ -5,13 +5,11 @@ permalink: /book/
 ---
 # Books
 
-### Political Philosophy
-1. Machiavelli -- The Prince
-2. Machiavelli -- Discourses in Livy
-3. Montesquieu -- The Spirit of the Laws
+To be updated...
 
-### Political Economy
-1. Don Lavoie -- Rivalry and Central Planning
+### Political Philosophy
+1. Machiavelli -- The Prince, Discourses in Livy
+2. Montesquieu -- The Spirit of the Laws
 
 ### Personal essays
 1. Eula Biss -- The Pain Scale
