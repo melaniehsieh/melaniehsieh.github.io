@@ -61,4 +61,9 @@ h3 {
 
 p, ul, ol {
     font-size: 1.2em; /* Standard font size for paragraphs and list items */
+    margin-top: 0.5em; /* Remove default top margin */
+}
+
+ul {
+    margin-top: 1.5em; /* Remove default top margin */
 }
