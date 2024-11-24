@@ -4,19 +4,24 @@ title: Home
 ---
 
 # Melanie Hsieh
-Studying Physics, [Political Philosophy](https://liberalarts.utexas.edu/coretexts/), and [WWII](https://liberalarts.utexas.edu/history/normandy-scholar-program-on-wwii/) at UT Austin (*Graduating in May 2025*). [Don Lavoie Fellow](https://www.mercatus.org/students/don-lavoie-fellowship) at the Mercatus Center, George Mason University.
 
-Current intellectual curiousity (*last update Oct 2024*):
-- [Oral history of China experts in America](https://pekinghotel.substack.com/)
-- Decentralized research institutions (drafting)
-- Montesquieu's analysis of despotism and commercial republic
-- William Faulkner -- *The Sound and the Fury*
-- Wong Kar-wai movies
+"If my mind could gain a firm footing, I would not make essays, I would make decisions; but it is always in apprenticeship and on trial." *Michel de Montaigne*
 
-I'm currently drafting a research paper for RAND on China’s High Performance Computers (HPC) infrastructure. Previously, I interned at DoS, researching China's S&T talent pipeline and participated in [Track II dialogue](https://www.linkedin.com/posts/melaniehsieh_uschinarelations-bilateralrelations-taiwan-activity-7098093507575238656-erx_?utm_source=share&utm_medium=member_desktop) in D.C. on enhancing US-China bilateral relationship.
+### Recent essays:
+- [The Idealized Men in Yue Opera](https://substack.com/home/post/p-144492591): “I sculpt masculinity with the body of a woman.”
+- [Where is my Mapo Tofu?](https://substack.com/home/post/p-148831978): "Such monotony in flavor makes me wonder if this is really what cooking has become: the flavor of convenience."
+- Proximity--On Friendship (*editing*)
+- The Search for "The Sweetest Sentiments Known to Man", Rousseau and Montesquieu (*drafting*)
 
-I skipped the last year of high school in Hong Kong to study Physics in the US. In the summer of 2024, I cycled 4,500 miles from Austin, Texas to Anchorage, Alaska over 70 days to raise funds and awareness for cancer research and support services.
+### Currently:
+- Studying Physics, [Political Philosophy](https://liberalarts.utexas.edu/coretexts/), and [WWII](https://liberalarts.utexas.edu/history/normandy-scholar-program-on-wwii/) at UT Austin.
+- [Oral history of China experts living in the U.S.](https://pekinghotel.substack.com/)
+- Documenting my long walks to answer "Unless you want to die, you eat" (Departures 2008)
+- Reading Faulkner
 
-I enjoy [reading](/book), [writing](/essay), hiking, and long walks. 
-
-I keep a zero inbox, [email me](mailto:melanie.hsieh@my.utexas.edu) or [X](https://x.com/MelanieHsieh).
+### Previously:
+- [Don Lavoie Fellow](https://www.mercatus.org/students/don-lavoie-fellowship) at the Mercatus Center, George Mason University
+- Cycled [4,500 miles](https://www.texas4000.org/rider/2024/rockies/melanie-hsieh/) to raise funds and awareness for cancer research and support services
+- Interned at DoS researching China's S&T talent pipeline
+- Participated in [Track II dialogue](https://www.linkedin.com/posts/melaniehsieh_uschinarelations-bilateralrelations-taiwan-activity-7098093507575238656-erx_?utm_source=share&utm_medium=member_desktop) in D.C.
+- Skipped the last year of high school in Hong Kong to study Physics in the US
