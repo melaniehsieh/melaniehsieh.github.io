@@ -48,22 +48,17 @@ main {
 }
 
 h1 {
-    font-size: 2em;
+    /* font-size: 2em; */
     margin-top: 0; /* Remove default top margin */
     margin-bottom: 0; /* Remove default top margin */
 }
 
 h3 {
-    font-size: 1.4em;
-    margin-top: 0; /* Remove default top margin */
+    margin-top: 0.5em; /* Remove default top margin */
     margin-bottom: 0; /* Remove default top margin */
 }
 
 p, ul, ol {
-    font-size: 1.2em; /* Standard font size for paragraphs and list items */
+    font-size: 1.1em;
     margin-top: 0.5em; /* Remove default top margin */
-}
-
-ul {
-    margin-top: 1.5em; /* Remove default top margin */
 }
